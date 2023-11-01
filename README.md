@@ -1,0 +1,60 @@
+# Power BI Dashboards Repository
+
+![logo](https://github.com/misbahiradat/Forecasting-of-Currency-Price/blob/main/DALL%C2%B7E%202023-11-01%2011.34.15%20-%20Detailed%20full-screen%20layout%20of%20an%20intricate%20interactive%20dashboard.%20The%20design%20features%20organized%20widgets_%20pie%20charts%20depicting%20user%20demographics%2C%20vert.png)
+**Table of Contents**
+- [Introduction](#introduction)
+- [Dashboard Overview](#dashboard-overview)
+- [Available Dashboards](#available-dashboards)
+- [Accessing Dashboards](#accessing-dashboards)
+- [Contact Information](#contact-information)
+
+## Introduction
+
+Welcome to the Power BI Dashboards Repository. Here, we host a collection of insightful and data-driven dashboards created using Power BI. Our dashboards cover a wide range of topics, from financial analysis to transportation and sales insights. These dashboards are designed to help you gain valuable insights from your data.
+
+## Dashboard Overview
+
+Our collection includes the following dashboards:
+
+### Financial Dashboards 💵💼
+Comprehensive financial analysis to track performance and make informed decisions.
+
+### Revenue Dashboards 💰📊
+In-depth insights into revenue trends and growth.
+
+### NYC Bus Breakdown and Delays Analysis 🚌🗽
+Analyzing bus breakdowns and delays in New York City for a better understanding of public transportation.
+
+### Sales Analysis 🛒📈
+A closer look at sales trends and key performance indicators.
+
+### Stores Sales Analysis 🏪📊
+Analyzing sales data from various stores for better decision-making.
+
+### Corporate Dashboard 🏢📈
+A high-level overview of corporate performance and key metrics.
+
+## Available Dashboards
+
+You can access some of my dashboards through the following links:
+
+- [Financial Dashboards]([link-to-financial-dashboard](https://app.powerbi.com/view?r=eyJrIjoiMGI5MDM2ZDItZDc4Mi00NTM3LTgxNjktMzllNjg4ODg3Mzc4IiwidCI6ImZlZTNiOTE2LTAxYzEtNDk4Ny1hNjQ2LWUxOTM0MzJiOWVhYSIsImMiOjl9))
+- [Revenue Dashboards](https://app.powerbi.com/view?r=eyJrIjoiODA4OGFlMjItYzg0ZS00YTA5LWFmZjItNDM1YmZkOTRhYTQxIiwidCI6ImZlZTNiOTE2LTAxYzEtNDk4Ny1hNjQ2LWUxOTM0MzJiOWVhYSIsImMiOjl9&pageName=ReportSectiona9df55179010b3731cc3)
+- [NYC Bus Breakdown and Delays Analysis](https://app.powerbi.com/view?r=eyJrIjoiNDA2ZGZmNzYtMmE0NC00NzBiLWJmYTAtYjk4Y2MyOTgwYjc0IiwidCI6ImZlZTNiOTE2LTAxYzEtNDk4Ny1hNjQ2LWUxOTM0MzJiOWVhYSIsImMiOjl9)
+- [Stores Sales Analysis](https://app.powerbi.com/view?r=eyJrIjoiZGE5MTEyZTAtNzI0Zi00OWFjLTlkMzEtMzQ3MjExM2Q2ZGY2IiwidCI6ImZlZTNiOTE2LTAxYzEtNDk4Ny1hNjQ2LWUxOTM0MzJiOWVhYSIsImMiOjl9)
+- [Recruitment Tracker Dashboard](https://app.powerbi.com/view?r=eyJrIjoiMzQ3NTVmYjAtNzJjOS00YjhlLTg4MzMtNjk0OGM2ZTM4NTUxIiwidCI6ImZlZTNiOTE2LTAxYzEtNDk4Ny1hNjQ2LWUxOTM0MzJiOWVhYSIsImMiOjl9&pageName=ReportSection/)
+- [Sales Analysis](https://app.powerbi.com/view?r=eyJrIjoiZTVmMDgxMjMtNGY1MC00N2E4LWJmOGEtNDc4M2M5YmFlNTg1IiwidCI6ImZlZTNiOTE2LTAxYzEtNDk4Ny1hNjQ2LWUxOTM0MzJiOWVhYSIsImMiOjl9)
+
+![logo](https://github.com/misbahiradat/Forecasting-of-Currency-Price/blob/main/DALL%C2%B7E%202023-11-01%2011.33.04%20-%20Photo%20of%20a%20close-up%20digital%20screen%20displaying%20a%20comprehensive%20interactive%20dashboard.%20The%20dashboard%20contains%20various%20widgets_%20a%20map%20highlighting%20global.png)
+
+## Accessing Dashboards
+
+Click on the links above to access the respective dashboards. You can interact with the data, apply filters, and gain insights. Feel free to explore and use these dashboards to make data-driven decisions.
+
+## Contact Information
+
+If you need access to the raw data, have any questions, or would like to request additional information, please feel free to reach out to us at [misbahiradat99@gmail.com](mailto:misbahiradat99@gmail.com).
+
+Thank you for exploring our Power BI Dashboards Repository. We hope you find these dashboards valuable for your data analysis needs. 🚀
+
+Happy exploring! 📈🔍
