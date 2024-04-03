@@ -38,6 +38,7 @@ A high-level overview of corporate performance and key metrics.
 
 You can access some of my dashboards through the following links:
 
+- [Sales Dashboard](https://app.powerbi.com/view?r=eyJrIjoiZjlmNTM2ZmYtNjEwNy00YzhmLWFlNTQtYTFiZjdiZDdkYWU2IiwidCI6ImZlZTNiOTE2LTAxYzEtNDk4Ny1hNjQ2LWUxOTM0MzJiOWVhYSIsImMiOjl9)
 - [Financial Dashboards]([link-to-financial-dashboard](https://app.powerbi.com/view?r=eyJrIjoiMGI5MDM2ZDItZDc4Mi00NTM3LTgxNjktMzllNjg4ODg3Mzc4IiwidCI6ImZlZTNiOTE2LTAxYzEtNDk4Ny1hNjQ2LWUxOTM0MzJiOWVhYSIsImMiOjl9))
 - [Revenue Dashboards](https://app.powerbi.com/view?r=eyJrIjoiODA4OGFlMjItYzg0ZS00YTA5LWFmZjItNDM1YmZkOTRhYTQxIiwidCI6ImZlZTNiOTE2LTAxYzEtNDk4Ny1hNjQ2LWUxOTM0MzJiOWVhYSIsImMiOjl9&pageName=ReportSectiona9df55179010b3731cc3)
 - [NYC Bus Breakdown and Delays Analysis](https://app.powerbi.com/view?r=eyJrIjoiNDA2ZGZmNzYtMmE0NC00NzBiLWJmYTAtYjk4Y2MyOTgwYjc0IiwidCI6ImZlZTNiOTE2LTAxYzEtNDk4Ny1hNjQ2LWUxOTM0MzJiOWVhYSIsImMiOjl9)
